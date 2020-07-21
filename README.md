@@ -19,4 +19,15 @@ A sample python flask application with a home page displaying "app version" and 
 
 
 ## Screenshots
+
+### SampleFlask App Home Page
 ![SampleFlask App Home Page](https://github.com/rokie582/kubernetes-demo/blob/master/Sample-Flask-app-home-page.png)
+
+### SampleFlask Status Page 
+![SampleFlask Status Page](https://github.com/rokie582/kubernetes-demo/blob/master/Sample-Flask-app-status-page.png)
+
+### Spinnaker 1
+![Spinnaker 1](https://github.com/rokie582/kubernetes-demo/blob/master/Spinnaker-1.png)
+
+### Spinnaker 2
+![Spinnaker 2](https://github.com/rokie582/kubernetes-demo/blob/master/Spinnaker-2.png)
