@@ -14,7 +14,8 @@ A sample python flask application with a home page displaying "app version" and 
 2. Application code - sample-flask.py
 3. Helm Packages under helm-charts folder
 4. README.md file
-5. Screenshots
+5. kubernetes definition files under kubernetes-files
+6. Screenshots
 
 
 ## Screenshots

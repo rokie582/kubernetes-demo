@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name:  sample-flask-deployment
+  labels:
+    app:  sample-flask
+spec:
+  selector:
+    matchLabels: 
+      app: sample-flask
+  replicas: 2
+  template:
+    metadata:
+      name: sample-flask
+      labels:
+        app: sample-flask
+    spec:
+      containers:
+        - name: sample-flask-app
+          image: rokie582/sample-flask-app
