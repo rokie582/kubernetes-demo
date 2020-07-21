@@ -19,3 +19,4 @@ A sample python flask application with a home page displaying "app version" and 
 
 
 ## Screenshots
+![SampleFlask App Home Page](https://github.com/rokie582/kubernetes-demo/blob/master/Sample-Flask-app-home-page.png)
