@@ -23,7 +23,7 @@ A sample python flask application with a home page displaying "app version" and 
 ### SampleFlask App Home Page
 ![SampleFlask App Home Page](https://github.com/rokie582/kubernetes-demo/blob/master/Sample-Flask-app-home-page.png)
 
-### SampleFlask Status Page 
+### SampleFlask Status Page
 ![SampleFlask Status Page](https://github.com/rokie582/kubernetes-demo/blob/master/Sample-Flask-app-status-page.png)
 
 ### Spinnaker 1
